@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-04T23:00:17 BDT" name="Default suite" finished-at="2022-12-04T23:00:25 BDT" duration-ms="7496">
+    <groups>
+    </groups>
+    <test started-at="2022-12-04T23:00:17 BDT" name="Default test" finished-at="2022-12-04T23:00:25 BDT" duration-ms="7496">
+      <class name="com.qa.fifa.Search_Test">
+        <test-method signature="validateSearch()[pri:0, instance:com.qa.fifa.Search_Test@741a8937]" started-at="2022-12-04T23:00:18 BDT" name="validateSearch" finished-at="2022-12-04T23:00:25 BDT" duration-ms="7452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearch -->
+      </class> <!-- com.qa.fifa.Search_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
